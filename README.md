@@ -125,7 +125,7 @@ to import Marshmallow and initialize with an instance of the Flask application.
 
 Enter the following in `server/app.py`, before the definitions of your routes:
 
-```py
+```py 
 # server/app.py
 
 #!/usr/bin/env python3
